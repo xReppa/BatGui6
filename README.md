@@ -3,7 +3,7 @@ Retro Bat Gui for V6
 
 New version of BatGui for RetroBat V6 release
 
-You will find to zip cwith the source code of the two software for BatGui
+You will find to zip with the source code of the two software for BatGui
 
 One for the software at the root of retrobat, is just a launcher / updater.
 One for the core bat gui (retroBat\system\modules\rb_gui\BatGuiMenu.exe)
