@@ -1,7 +1,7 @@
 # BatGui6
-Retro Bat Gui for V6
+Retro Bat Gui for V6.x and V7.x
 
-New version of BatGui for RetroBat V6 release
+New version of BatGui for RetroBat V6/7 release
 
 You will find to zip with the source code of the two software for BatGui
 
